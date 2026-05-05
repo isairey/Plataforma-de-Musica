@@ -162,6 +162,7 @@ npm run electron-dev
 
 ## 👤 Autor
 
+<img src="https://avatars.githubusercontent.com/isairey?s=115"><br>
 **Isai Reyes**
 
 GitHub: https://github.com/isairey
