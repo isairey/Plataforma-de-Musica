@@ -1,0 +1,79 @@
+# Node modules
+node_modules/
+
+# Output and build directories
+dist/
+build/
+out/
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+*.pyo
+*.pyd
+*.zip
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Coverage reports
+coverage/
+
+# Electron specific
+electron-builder.yaml
+*.log
+*.tsbuildinfo
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.sw?
+
+# macOS code signing
+*.entitlements
+
+# Optional cache
+.cache/
+.eslintcache
+
+# Linux packaging
+*.snap
+*.AppImage
+
+# Windows packaging
+*.msi
+*.wixproj
+*.nupkg
+*.appx
+*.appxbundle
+
+# Desktop packaging extras
+release/
+
+# Optional npm shrinkwrap
+npm-shrinkwrap.json
+
+# TypeScript
+*.tsbuildinfo
+
+# Parcel/webpack caches
+.parcel-cache/
+webpack-stats.json
