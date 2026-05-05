@@ -66,35 +66,63 @@ Este proyecto incluye **dos apps completas de streaming musical**:
 cd openspot-music-app/openspot-music-mobile
 npm install
 npx expo start
-📦 Build
-# Desarrollo
+```
+
+---
+
+## 📦 Build
+###  Desarrollo
+```
 eas build --platform android --profile development
-
-# APK
+```
+###  APK
+```
 eas build --platform android --profile preview
-
-# Producción
+```
+### Producción
+```
 eas build --platform android --profile production
-🖥️ App de Escritorio
-🔧 Instalación
+```
+---
+
+## 🖥️ App de Escritorio
+
+### 🔧 Instalación
+```
 cd openspot-music-app/openspot-music-electron
 npm install
 npm run electron-dev
-📦 Build
+```
+
+---
+
+## 📦 Build
+```
 npm run build
 npm run electron-pack
-🛠️ Tecnologías utilizadas
-Mobile
-React Native + Expo
-Expo Router
-Expo AV
-Desktop
-Electron
-React
-Material UI
-General
-TypeScript
-npm / yarn
+```
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+#### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Expo AV](https://img.shields.io/badge/Expo_AV-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+#### 🖥️ Desktop
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+#### ⚙️ General
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+
 ⚙️ Configuración
 
 Este proyecto requiere variables de entorno:
