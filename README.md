@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/BlackHatDevX/openspot-music-app?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/BlackHatDevX/openspot-music-app?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/BlackHatDevX/openspot-music-app?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/isairey/Plataforma-de-Musica?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/isairey/Plataforma-de-Musica?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/isairey/Plataforma-de-Musica?style=for-the-badge" />
 </p>
 
 ---
