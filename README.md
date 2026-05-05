@@ -122,39 +122,62 @@ npm run electron-pack
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
+---
 
-⚙️ Configuración
+## ⚙️ Configuración
 
 Este proyecto requiere variables de entorno:
 
-Copia el archivo:
+### Copia el archivo:
+```
 .env.template
-Renómbralo a:
+```
+### Renómbralo a:
+```
 .env
+```
 Completa los valores necesarios.
-🚀 Inicio rápido
-Mobile
-git clone https://github.com/BlackHatDevX/openspot-music-app.git
-cd openspot-music-app/openspot-music-mobile
+
+---
+
+## 🚀 Inicio rápido
+
+### Mobile
+```
+git clone https://github.com/isairey/Plataforma-de-Musica.git
+cd Plataforma-de-Musica/openspot-music-mobile
 npm install
 npx expo start
-Desktop
-git clone https://github.com/BlackHatDevX/openspot-music-app.git
-cd openspot-music-app/openspot-music-electron
+```
+
+### Desktop
+```
+git clone https://github.com/isairey/Plataforma-de-Musica.git
+cd Plataforma-de-Musica/openspot-music-electron
 npm install
 npm run electron-dev
-👤 Autor
+```
 
-Isai Reyes
+---
+
+## 👤 Autor
+
+**Isai Reyes**
 
 GitHub: https://github.com/isairey
-🤝 Contribuciones
+
+---
+
+## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Puedes:
 
-Reportar bugs
-Proponer mejoras
-Enviar pull requests
-📄 Licencia
+- Reportar bugs
+- Proponer mejoras
+- Enviar pull requests
+
+---
+
+## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT.
